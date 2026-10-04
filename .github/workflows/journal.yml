@@ -2,8 +2,8 @@ name: Journal du Matin
 
 on:
   schedule:
-    - cron: '0 6 * * *' # S'exécute tous les jours à 6h00 UTC
-  workflow_dispatch: # Permet de le lancer manuellement
+    - cron: '30 4 * * *' # S'exécute à 4h30 UTC (6h30 heure française d'été)
+  workflow_dispatch:
 
 jobs:
   build-and-send:
