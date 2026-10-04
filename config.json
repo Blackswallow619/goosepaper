@@ -1,0 +1,63 @@
+{
+  "version": 2,
+  "paper": {
+    "style": "FifthAvenue"
+  },
+  "sources": [
+    {
+      "type": "rss",
+      "url": "https://www.lemonde.fr/rss/une.xml",
+      "limit": 5
+    },
+    {
+      "type": "rss",
+      "url": "https://www.francetvinfo.fr/sports.rss",
+      "limit": 5
+    },
+    {
+      "type": "rss",
+      "url": "https://www.lesnumeriques.com/rss.xml",
+      "limit": 3
+    },
+    {
+      "type": "rss",
+      "url": "https://www.geo.fr/rss/histoire",
+      "limit": 3
+    },
+   {
+      "type": "rss",
+      "url": "https://siecledigital.fr/intelligence-artificielle/feed/",
+      "limit": 3
+    },
+    {
+      "type": "rss",
+      "url": "https://www.jeuxvideo.com/rss/rss.xml",
+      "limit": 3
+    },
+   {
+      "type": "rss",
+      "url": "https://www.gusandco.net/feed/](https://www.gusandco.net/feed/",
+      "limit": 3
+    },
+    {
+      "type": "rss",
+      "url": "https://www.lesnumeriques.com/intelligence-artificielle/rss.xml",
+      "limit": 3
+    },
+    {
+      "type": "rss",
+      "url": "https://www.frandroid.com/feed",
+      "limit": 3
+    },
+    {
+      "type": "rss",
+      "url": "https://rmcsport.bfmtv.com/rss/football/",
+      "limit": 3
+    },
+    {
+      "type": "rss",
+      "url": "https://www.eurosport.fr/rss.xml",
+      "limit": 3
+    }
+  ]
+}
